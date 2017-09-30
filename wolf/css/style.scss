@@ -500,6 +500,9 @@ body{
        -o-transform: rotate(220deg);
           transform: rotate(220deg);
 }
+#bigBigWolf .hat .patch .name{
+  font-size: px2rem(16);
+}
 #bigBigWolf .eye {
   top: px2rem(221);
   left: px2rem(213);
