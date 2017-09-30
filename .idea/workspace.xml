@@ -180,12 +180,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506744267750</updated>
-      <workItem from="1506744268994" duration="757000" />
+      <workItem from="1506744268994" duration="765000" />
     </task>
+    <task id="LOCAL-00001" summary="456">
+      <created>1506745105658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506745105658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="757000" />
+    <option name="totallyTimeSpent" value="765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
